@@ -34,6 +34,9 @@ folder.
 #### Microsoft SQl Server 2022 
 
 - Download From Link [**Microsoft SQl Server 2022**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and choose your operation system.
-- Read Installation Tutorial [**Tutorial**](https://www.mssqltips.com/sqlservertip/7313/install-sql-server-2022/) in the Database Engine Configuration check mixed mode authentication and give you <b>sa</b> user a password.
-- Download and unzip into the installation path the backup files from MYY030_Project/data/*.zip
-- Restore the databases DWH, DWH_INTERMEDIATE, DWH_STAGING [**tutorial**](https://www.ibm.com/docs/en/license-metric-tool?topic=database-restoring-ms-sql-server).
+- Read Installation [**Tutorial**](https://www.mssqltips.com/sqlservertip/7313/install-sql-server-2022/) in the Database Engine Configuration check mixed mode authentication and give you <b>sa</b> user a password.
+- Download and unzip into the installation path the backup files from [**MYY030_Project/data/*.zip**](https://github.com/siavasiatras/MYY030_Project/tree/main/data).
+- Restore the databases DWH, DWH_INTERMEDIATE, DWH_STAGING read [**tutorial**](https://www.ibm.com/docs/en/license-metric-tool?topic=database-restoring-ms-sql-server) if needed.
+
+
+### <div align="center">to be continued...</div>
