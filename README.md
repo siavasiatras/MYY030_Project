@@ -25,8 +25,6 @@ The project uses a Maven wrapper so there is no need to install it to your syste
 environmental variable pointing to your [**Java 8**](https://www.oracle.com/java/technologies/downloads/archive/) installation
 folder.
 
-### <div align="center">CONFIGURATION</div>
-
 #### Microsoft SQl Server Tools 2019
 
 - Install From Link [**Microsoft SQl Server Tools 2019**](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16).
