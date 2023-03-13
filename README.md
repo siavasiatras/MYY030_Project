@@ -37,6 +37,6 @@ folder.
 - Read Installation [**Tutorial**](https://www.mssqltips.com/sqlservertip/7313/install-sql-server-2022/) in the Database Engine Configuration check mixed mode authentication and give you <b>sa</b> user a password.
 - Download and unzip into the installation path the backup files from [**MYY030_Project/data/*.zip**](https://github.com/siavasiatras/MYY030_Project/tree/main/data).
 - Restore the databases DWH, DWH_INTERMEDIATE, DWH_STAGING read [**tutorial**](https://www.ibm.com/docs/en/license-metric-tool?topic=database-restoring-ms-sql-server) if needed.
-
+- Drop the <b>project_user</b> users from the three databases and create a login user [**project_reporter**]([<b>](https://www.ibm.com/docs/en/capm?topic=monitoring-creating-user-granting-permissions) with <b>db_sysadmin</b>, <b>db_datareader</b>, <b>db_datawriter</b>.
 
 ### <div align="center">to be continued...</div>
